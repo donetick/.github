@@ -2,6 +2,9 @@
 ![Organization Logo](org-logo.png)
 Donetick is an open-source, user-friendly app designed to help individuals and groups manage tasks and chores efficiently. Our mission is to provide a customizable and privacy-focused task management tool that benefits the wider community.
 
+# Donetick Hosted :
+For those who prefer not to self-host, Donetick is also available as a hosted service. This version is maintained and hosted by Donetick at [donetick.com](https://donetick.com), offering the same great features without the need for personal server management. Visit the website to learn more and get started.
+
 ## About Donetick
 Donetick is more than just a task management app; it's a community-driven project aimed at creating a solution that addresses the chore management needs of many. Born from a personal project, Donetick has evolved into a comprehensive tool for task and chore management, offering features that cater to both individual and group needs.
 
