@@ -1,6 +1,6 @@
 # Welcome to the Donetick!
 ![Organization Logo](org-logo.png)
-Donetick is an open-source, user-friendly app designed to help individuals and groups manage tasks and chores efficiently. Our mission is to provide a customizable and privacy-focused task management tool that benefits the wider community.
+Donetick is an open-source, user-friendly app designed to help individuals and groups manage tasks and chores efficiently.
 
 # Donetick Hosted :
 For those who prefer not to self-host, Donetick is also available as a hosted service. This version is maintained and hosted by Donetick at [donetick.com](https://donetick.com), offering the same great features without the need for personal server management. Visit the website to learn more and get started.
@@ -13,12 +13,8 @@ This personal project was born out of the desire for an app that could handle co
 
 it's built with an emphasis on user-friendliness, ensuring that even those with limited tech experience can easily navigate and utilize its features, including the convenient NFC tag scanning for quick task completion.
 
-## The Projects:
-- **Core**: The backbone of the Donetick project, handling data processing, storage, schedulers, and communication with the frontend.
-- **Frontend**: The user-facing application that provides an intuitive interface for managing tasks and chores.
-- **Hassio Addon**: if you use homeassistant hassio you can easily add it as addon on and selfhosted on your own!
 
-## Features Across Our Projects
+## Features:
 - **Task and Chore Management**: Create, edit, and manage tasks and chores with ease.
 - **Shared To-Do Lists**: Collaborate on tasks with family or groups through "Circles".
 - **Assignee Assignment**: Assign tasks to individuals or rotate them automatically.
